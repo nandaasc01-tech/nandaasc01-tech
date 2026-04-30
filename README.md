@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=87CEFF&section=header&textBg=false" />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00B2EE&section=header&textBg=false" />
 </div>
 
 ###
