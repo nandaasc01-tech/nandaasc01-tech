@@ -55,20 +55,13 @@
 
 ###
 
-<div align="left">
+<div align="right">
   <a href="https://www.linkedin.com/in/fernanda-pereira01/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
-  <a href="nandaasc01@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+ 
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/nandaasc01-tech/nandaasc01-tech/output/snake.svg" alt="Snake animation" />
 
 ###
 
