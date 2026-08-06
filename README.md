@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou a Fernanda Pereira 👋</h1>
-<h3 align="center">Data Scientist em transição de carreira | 9+ anos em Gestão Financeira</h3>
+<h3 align="center">Data Scientist em transição de carreira | 10+ anos em Gestão Financeira</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fernanda-pereira01/">
@@ -11,7 +11,7 @@
 
 ### 🚀 Sobre mim
 
-Sou analista com **mais de 9 anos de experiência no setor financeiro/bancário**, atuando em gestão e análise de indicadores (KPIs), atualmente em transição de carreira para **Data Science**. Combino visão de negócio com competências técnicas em Python, Machine Learning e modelagem estatística, com foco em transformar dados em decisões.
+Sou analista com **mais de 10 anos de experiência no setor financeiro/bancário**, atuando em gestão e análise de indicadores (KPIs), atualmente em transição de carreira para **Data Science**. Combino visão de negócio com competências técnicas em Python, Machine Learning e modelagem estatística, com foco em transformar dados em decisões.
 
 - 🌱 Formação em Data Science pela **EBAC**, com projetos cobrindo o pipeline completo: EDA, engenharia de atributos, modelagem e comunicação de resultados para stakeholders
 - 🌐 Fluente em inglês e espanhol (4 anos de vivência internacional)
