@@ -34,7 +34,7 @@ Currently seeking opportunities where a strong business background and analytica
 <td>Binary classification of fraudulent transactions on a real-world payments dataset with severe class imbalance.</td>
 </tr>
 <tr>
-<td><strong>Thyroid Disease Classification</strong></td>
+<td><strong><a href="https://github.com/nandaasc01-tech/Detec-o_Hipotireoidismo">Thyroid Disease Classification</strong></td>
 <td>Hypothyroidism detection from clinical and laboratory data, including bootstrap confidence intervals and a documented review of data leakage risk.</td>
 </tr>
 <tr>
