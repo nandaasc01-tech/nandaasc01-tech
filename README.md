@@ -1,56 +1,77 @@
-<h1 align="center">Olá, eu sou a Fernanda Pereira 👋</h1>
-<h3 align="center">Data Scientist em transição de carreira | 10+ anos em Gestão Financeira</h3>
+<div align="center">
 
-<p align="center">
+<h1>Fernanda Pereira</h1>
+<h3>Data Scientist &nbsp;|&nbsp; Career Transition from Financial Management</h3>
+
+<p>
   <a href="https://www.linkedin.com/in/fernanda-pereira01/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/nandaasc01-tech">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
----
+</div>
 
-### 🚀 Sobre mim
+<br>
 
-Sou analista com **mais de 10 anos de experiência no setor financeiro/bancário**, atuando em gestão e análise de indicadores (KPIs), atualmente em transição de carreira para **Data Science**. Combino visão de negócio com competências técnicas em Python, Machine Learning e modelagem estatística, com foco em transformar dados em decisões.
+## About
 
-- 🌱 Formação em Data Science pela **EBAC**, com projetos cobrindo o pipeline completo: EDA, engenharia de atributos, modelagem e comunicação de resultados para stakeholders
-- 🌐 Fluente em inglês e espanhol (4 anos de vivência internacional)
-- 🎯 Buscando oportunidades para aplicar minha bagagem de negócios em times de dados
+Data professional with over 10 years of experience in financial management and KPI analysis, now transitioning into Data Science. I combine business acumen with technical skills in Python, machine learning, and statistical modeling to turn data into actionable decisions.
 
----
+Trained through EBAC's Data Science program, with project work spanning the full analytical pipeline — exploratory data analysis, feature engineering, model development, and stakeholder-ready reporting. Fluent in English and Spanish, developed over four years of international residence.
 
-### 🏆 Projetos em destaque
+Currently seeking opportunities where a strong business background and analytical rigor can support data-driven decision making.
 
-| Projeto | Descrição | Técnicas | Destaque |
-|---|---|---|---|
-| **[Detecção de Fraude em Transações Financeiras](https://github.com/nandaasc01-tech/Projeto_Deteccao_Fraude)** | Classificação de transações fraudulentas em dataset real de pagamentos, com forte desbalanceamento de classes | Random Forest, XGBoost, CatBoost, tratamento de dados desbalanceados | Pipeline completo + dashboard de monitoramento |
-| **Detecção de Doenças da Tireoide** | Classificação de hipotireoidismo/hipertireoidismo a partir de dados clínicos | Random Forest, XGBoost | Notebook, relatório executivo e apresentação para stakeholders |
-| **[Árvore de Decisão – Projeto Prático](https://github.com/nandaasc01-tech/EBAC-rvore-de-Decis-o---Projeto)** | Classificação com algoritmo de árvore de decisão | Decision Tree, scikit-learn | Fundamentos de ML aplicados a caso real |
-| **[Previsão de Propensão de Compra](https://github.com/nandaasc01-tech/Projeto_Web_Store)** | Modelo preditivo de compra online a partir de campanha de marketing | Random Forest vs. Regressão Logística | AUC-ROC de 0.97 |
+<br>
 
-> 📌 *Cada repositório possui README próprio em português, com contexto do problema, pipeline de dados e resultados obtidos.*
+## Featured Projects
 
----
+<table>
+<tr>
+<td width="30%"><strong><a href="https://github.com/nandaasc01-tech/Projeto_Deteccao_Fraude">Financial Transaction Fraud Detection</a></strong></td>
+<td>Binary classification of fraudulent transactions on a real-world payments dataset with severe class imbalance.</td>
+</tr>
+<tr>
+<td><strong>Thyroid Disease Classification</strong></td>
+<td>Hypothyroidism detection from clinical and laboratory data, including bootstrap confidence intervals and a documented review of data leakage risk.</td>
+</tr>
+<tr>
+<td><strong><a href="https://github.com/nandaasc01-tech/EBAC-rvore-de-Decis-o---Projeto">Decision Tree Classification</a></strong></td>
+<td>Applied classification project using a decision tree algorithm on real-world data.</td>
+</tr>
+<tr>
+<td><strong><a href="https://github.com/nandaasc01-tech/Projeto_Web_Store">Purchase Propensity Prediction</a></strong></td>
+<td>Predictive model for online purchase behavior from marketing campaign data. AUC-ROC of 0.97.</td>
+</tr>
+</table>
 
-### 🛠️ Stack técnica
+<sub>Each repository includes its own README with problem context, data pipeline, and results.</sub>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="28" title="pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" title="Anaconda"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+<br>
+
+## Technical Skills
+
+**Machine Learning** — scikit-learn, XGBoost, CatBoost, Random Forest, Logistic Regression
+**Data** — Pandas, NumPy, SQL
+**Visualization** — Matplotlib, Seaborn
+**Tools** — Jupyter Notebook, Git, GitHub, Anaconda
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-006ACC?style=flat-square" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-**Machine Learning:** scikit-learn · XGBoost · CatBoost · Random Forest · Regressão Logística
-**Dados:** Pandas · NumPy · SQL
-**Visualização:** Matplotlib · Seaborn
-**Ferramentas:** Jupyter Notebook · Git/GitHub
+<br>
 
----
+## Contact
 
-### 📫 Contato
+<a href="https://www.linkedin.com/in/fernanda-pereira01/">linkedin.com/in/fernanda-pereira01</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernanda_Pereira-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-pereira01/)
 
