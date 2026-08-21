@@ -31,7 +31,7 @@ Currently seeking opportunities where a strong business background and analytica
 <table>
 <tr>
 <td width="30%"><strong><a href="https://github.com/nandaasc01-tech/Projeto_Deteccao_Fraude">Financial Transaction Fraud Detection</a></strong></td>
-<td>Binary classification of fraudulent transactions on a real-world payments dataset with severe class imbalance.</td>
+<td>Binary classification of fraudulent transactions on a large-scale synthetic transaction dataset with severe class imbalance.</td>
 </tr>
 <tr>
 <td><strong><a href="https://github.com/nandaasc01-tech/Detec-o_Hipotireoidismo">Thyroid Disease Classification</strong></td>
