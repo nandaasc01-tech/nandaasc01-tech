@@ -38,7 +38,7 @@ Currently seeking opportunities where a strong business background and analytica
 <td>Hypothyroidism detection from clinical and laboratory data, including bootstrap confidence intervals and a documented review of data leakage risk.</td>
 </tr>
 <tr>
-<td><strong><a href="https://github.com/nandaasc01-tech/EBAC-rvore-de-Decis-o---Projeto">Decision Tree Classification</a></strong></td>
+<td><strong><a href="https://github.com/nandaasc01-tech/EBAC_Arvore_Decisao">Decision Tree Classification</a></strong></td>
 <td>Applied classification project using a decision tree algorithm on real-world data.</td>
 </tr>
 <tr>
